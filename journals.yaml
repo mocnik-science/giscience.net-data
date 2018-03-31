@@ -1,0 +1,167 @@
+---
+CaG:
+  name: Computers and Geosciences
+  url: https://www.journals.elsevier.com/computers-and-geosciences
+  publisher: Elsevier
+  open access: false
+CAGIS:
+  name: Cartography and Geographic Information Science
+  abbreviation: CAGIS
+  url: http://www.tandfonline.com/toc/tcag20/current
+  publisher: Taylor & Francis
+  open access: false
+CEaUS:
+  name: Computer, Environment and Urban Systems
+  url: https://www.journals.elsevier.com/computers-environment-and-urban-systems/
+  publisher: Elsevier
+  open access: false
+CJoRS:
+  name: Canadian Journal of Remote Sensing
+  url: http://www.tandfonline.com/toc/ujrs20/current
+  publisher: Taylor & Francis
+  open access: false
+CP:
+  name: Cartographic Perspectives
+  url: http://www.cartographicperspectives.org
+  publisher: NACIS
+  open access: true
+CTIJfGIaG:
+  name: 'Cartographica: The International Journal for Geographic Information and Geovisualization'
+  url: http://www.utpjournals.press/loi/cart
+  publisher: University of Toronto Press
+  open access: false
+EaPBPaD:
+  name: 'Environment and Planning B: Planning and Design'
+  url: http://journals.sagepub.com/home/epb
+  publisher: SAGE
+  open access: false
+GA:
+  name: Geographical Analysis
+  url: https://onlinelibrary.wiley.com/journal/15384632
+  publisher: Wiley
+  open access: false
+GaRS:
+  name: GIScience & Remote Sensing
+  url: http://www.tandfonline.com/toc/tgrs20/current
+  publisher: Taylor & Francis
+  open access: false
+GeoInformatica:
+  name: GeoInformatica
+  url: https://link.springer.com/journal/10707
+  publisher: Springer
+  open access: false
+Geomatica:
+  name: Geomatica
+  url: http://pubs.cig-acsg.ca/journal/cig
+  publisher: CIG
+  open access: false
+GSIS:
+  name: Geo-spatial Information Science
+  abbreviation: GSIS
+  url: http://www.tandfonline.com/toc/tgsi20/current
+  publisher: Taylor & Francis
+  open access: false
+IJDE:
+  name: International Journal of Digital Earth
+  abbreviation: IJDE
+  url: https://www.tandfonline.com/toc/tjde20/current
+  publisher: Taylor & Francis
+  open access: false
+IJGGS:
+  name: International Journal of Geomatics and Spatial Analysis
+  abbreviation: IJGGS
+  url: http://www.ipublishing.co.in/jggsindex.html
+  publisher: IPA
+  open access: true
+IJGIS:
+  name: International Journal of Geographical Information Science
+  abbreviation: IJGIS
+  url: http://www.tandfonline.com/toc/tgis20/current
+  publisher: Taylor & Francis
+  open access: false
+IJoAEOaG:
+  name: International Journal of Applied Earth Observation and Geoinformation
+  url: https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation
+  publisher: Elsevier
+  open access: false
+IJoG:
+  name: International Journal of Geoinformatics
+  url: http://e-geoinfo.net
+  open access: false
+IJoRS:
+  name: International Journal of Remote Sensing
+  url: https://www.tandfonline.com/loi/tres20/current
+  publisher: Taylor & Francis
+  open access: false
+JGIS:
+  name: Journal of Geographic Information System
+  abbreviation: JGIS
+  url: http://www.scirp.org/journal/jgis/
+  publisher: SCIRP
+  open access: true
+JoGS:
+  name: Journal of Geographical Systems
+  url: https://link.springer.com/journal/10109
+  publisher: Springer
+  open access: false
+JoLBS:
+  name: Journal of Location Based Services
+  url: http://www.tandfonline.com/toc/tlbs20/current
+  publisher: Taylor & Francis
+  open access: false
+JOSIS:
+  name: Journal of Spatial Information Science
+  abbreviation: JOSIS
+  url: http://josis.org/index.php/josis
+  open access: true
+JoSS:
+  name: Journal of Spatial Science
+  url: http://www.tandfonline.com/toc/tjss20/current
+  open access: false
+IJoPaRS:
+  name: ISPRS Journal of Photogrammetry and Remote Sensing
+  url: https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/
+  publisher: Elsevier
+  open access: false
+OGDSaS:
+  name: Open Geospatial Data, Software and Standards
+  url: http://opengeospatialdata.springeropen.com
+  publisher: Springer
+  open access: true
+PEaRS:
+  name: Photogrammetric Engineering & Remote Sensing
+  abbreviation: PE&RS
+  url: https://www.asprs.org/pers-landing-page
+  open access: false
+RSoF:
+  name: Remote Sensing of Environment
+  url: https://www.journals.elsevier.com/remote-sensing-of-environment
+  publisher: Elsevier
+  open access: false
+SCaC:
+  name: Spatial Cognition & Computation
+  url: http://www.tandfonline.com/toc/hscc20/current
+  publisher: Taylor & Francis
+  open access: false
+SS:
+  name: Spatial Statistics
+  url: https://www.journals.elsevier.com/spatial-statistics
+  publisher: Elsevier
+  open access: false
+TCJ:
+  name: The Cartographic Journal
+  url: http://www.tandfonline.com/toc/ycaj20/current
+  publisher: Taylor & Francis
+  open access: false
+TGIS:
+  name: Transactions in GIS
+  abbreviation: TGIS
+  url: https://onlinelibrary.wiley.com/journal/14679671
+  publisher: Wiley
+  open access: false
+TGRS:
+  name: IEEE Transactions on Geoscience and Remote Sensing
+  abbreviation: TGRS
+  url: http://ieeexplore.ieee.org/servlet/opac?punumber=36
+  publisher: IEEE
+  open access: false
