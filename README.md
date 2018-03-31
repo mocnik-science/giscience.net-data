@@ -35,6 +35,8 @@ Please add only conferences series that comply to the following rules:
 
 * Only conference series, no single or one-time conferences.
 * The conference is strongly related to and broadly accepted in the field of GIScience.
+* The conference is mainly of scientific character.
+* Contributions to the conference are peer-reviewed.
 * The conference has an international character.  This excludes conferences that are of purely local character.
 * Workshops are not counted as a conferences.
 
@@ -62,6 +64,7 @@ If a journal does not provide open access by default, it shall be marked as `ope
 Please add only journals that comply to the following rules:
 
 * The journal is strongly related to and broadly accepted in the field of GIScience.  This is the case for all journals that have GIS or GIScience in their name or in their description.
+* Contributions to the journal are peer-reviewed.
 * The journal has an international character.  This excludes journals that are of purely local character.
 
 ## License
