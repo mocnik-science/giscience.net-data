@@ -53,7 +53,7 @@ GSIS:
   open access: false
 ```
 
-The first line is only an internal abbreviation.  If an official/widely-used abbreviation exists, it is used in the first line, and the first characters of the journal name otherwise (including capitals and lower case letters).
+The first line is only an internal abbreviation.  If an official/widely-used abbreviation exists, it is used in the first line, and the first characters of the journal name otherwise (including capitals and lower case letters).  If a name only consisting of one word shall be abbreviated, the internal abbreviation equals the name.
 
 Please **order** the journals by the internal abbreviation (first line)!
 
