@@ -35,6 +35,12 @@ EaPBPaD:
   url: http://journals.sagepub.com/home/epb
   publisher: SAGE
   open access: false
+ESIN:
+  name: Earth Science Informatics
+  abbreviation: ESIN
+  url: https://link.springer.com/journal/12145
+  publisher: Springer
+  open access: false
 GA:
   name: Geographical Analysis
   url: https://onlinelibrary.wiley.com/journal/15384632
