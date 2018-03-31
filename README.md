@@ -64,6 +64,7 @@ If a journal does not provide open access by default, it shall be marked as `ope
 Please add only journals that comply to the following rules:
 
 * The journal is strongly related to and broadly accepted in the field of GIScience.  This is the case for all journals that have GIS or GIScience in their name or in their description.
+* The journal is of scientific character.
 * Contributions to the journal are peer-reviewed.
 * The journal has an international character.  This excludes journals that are of purely local character.
 
