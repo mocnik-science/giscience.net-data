@@ -64,6 +64,6 @@ Please add only journals that comply to the following rules:
 * The journal is strongly related to and broadly accepted in the field of GIScience.  This is the case for all journals that have GIS or GIScience in their name or in their description.
 * The journal has an international character.  This excludes journals that are of purely local character.
 
-### License
+## License
 
 The data are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/giscience/geogrid/blob/master/LICENSE).  Please feel free to reuse them.  The contributors would be happy if you would not forget to give the appropriate credit.
