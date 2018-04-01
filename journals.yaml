@@ -115,6 +115,12 @@ JoLBS:
   url: http://www.tandfonline.com/toc/tlbs20/current
   publisher: Taylor & Francis
   open access: false
+JoM:
+  name: Journal of Maps
+  abbreviation: JoM
+  url: http://www.tandfonline.com/toc/tjom20/current
+  publisher: Taylor & Francis
+  open access: true
 JOSIS:
   name: Journal of Spatial Information Science
   abbreviation: JOSIS
