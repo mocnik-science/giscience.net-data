@@ -35,7 +35,7 @@ Please add only conferences series that comply to the following rules:
 
 * Only conference series, no single or one-time conferences.
 * The conference is strongly related to and broadly accepted in the field of GIScience.
-* The conference is mainly of scientific character.
+* The conference is mainly of scientific character, and it is not related to only one or two special examples or software/data products.
 * Contributions to the conference are peer-reviewed.
 * The conference has an international character.  This excludes conferences that are of purely local character.
 * Workshops are not counted as a conferences.
