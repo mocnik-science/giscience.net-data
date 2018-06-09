@@ -670,6 +670,183 @@ GIScience:
       place: Savannah, GA, USA
       url: https://web.archive.org/web/20020301105558/http://www.giscience.org/GIScience2000
       proceedings: https://web.archive.org/web/20020205075933/http://www.giscience.org:80/GIScience2000/programOverview.html
+ICC:
+  long name: International Cartographic Conference
+  events:
+    ICC 2019:
+      count: 29th
+      start: 2019-07-15
+      end: 2019-07-20
+      place: Tokio, Japan
+      motto: Mapping everything for everyone
+      url: http://www.icc2019.org
+      proceedings: https://icaci.org/icc2019/
+    ICC 2017:
+      count: 28th
+      start: 2017-07-02
+      end: 2017-07-07
+      place: Washington, DC, USA
+      url: http://icc2017.org
+      proceedings: https://icaci.org/icc2017/
+    ICC 2015:
+      count: 27th
+      start: 2015-08-23
+      end: 2015-08-28
+      place: Rio de Janeiro, Brazil
+      motto: Maps connecting the world
+      url: http://www.icc2015.org
+      proceedings: 
+    ICC 2013:
+      count: 26th
+      start: 2013-08-25
+      end: 2013-08-30
+      place: Dresden, Germany
+      url: https://icaci.org/icc2013/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2013/
+    ICC 2011:
+      count: 25th
+      start: 2011-07-03
+      end: 2011-07-08
+      place: Paris, France
+      url: https://icaci.org/icc2011/
+    ICC 2009:
+      count: 24th
+      start: 2009-11-15
+      end: 2009-11-21
+      place: Santiago, Chile
+      url: https://icaci.org/icc2009/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2009/
+    ICC 2007:
+      count: 23th
+      start: 2007-08-04
+      end: 2007-08-10
+      place: Moscow, Russia
+      url: https://icaci.org/icc2007/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2007/html/Proceedings.htm
+    ICC 2005:
+      count: 22th
+      start: 2005-07-09
+      end: 2005-07-16
+      place: Coruña, Spain
+      url: https://icaci.org/icc2005/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2005/htm/centrado.html
+    ICC 2003:
+      count: 21st
+      start: 2003-08-10
+      end: 2003-08-16
+      place: Durban, South Africa
+      url: https://icaci.org/icc2003/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2003/Opening.pdf
+    ICC 2001:
+      count: 20th
+      start: 2001-08-06
+      end: 2001-08-10
+      place: Beijing, China
+      url: https://icaci.org/icc2001/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC2001/icc2001/defult.htm
+    ICC 1999:
+      count: 19th
+      start: 1999-08-14
+      end: 1999-08-21
+      place: Ottawa, Canada
+      url: https://icaci.org/icc1999/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC1999/start.pdf
+    ICC 1997:
+      count: 18th
+      start: 1997-06-23
+      end: 1997-06-27
+      place: Stockholm, Sweden
+      url: https://icaci.org/icc1997/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC1997/
+    ICC 1995:
+      count: 17th
+      start: 1995-09-03
+      end: 1995-09-09
+      place: Barcelona, Spain
+      url: https://icaci.org/icc1995/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC1995/
+    ICC 1993:
+      count: 16th
+      start: 1993-05-03
+      end: 1993-05-09
+      place: Cologne, Germany
+      url: https://icaci.org/icc1993/
+      proceedings: https://icaci.org/files/documents/ICC_proceedings/ICC1993/
+    ICC 1991:
+      count: 15th
+      start: 1991
+      end: 1991
+      place: Bournemouth, UK
+    ICC 1989:
+      count: 14th
+      start: 1989
+      end: 1989
+      place: Budapest, Hungary
+    ICC 1987:
+      count: 13th
+      start: 1987
+      end: 1987
+      place: Morelia, Mexico
+    ICC 1984:
+      count: 12th
+      start: 1984
+      end: 1984
+      place: Perth, Australia
+    ICC 1982:
+      count: 11th
+      start: 1982
+      end: 1982
+      place: Warszawa, Poland
+    ICC 1980:
+      count: 10th
+      start: 1980
+      end: 1980
+      place: Tokyo, Japan
+    ICC 1978:
+      count: 9th
+      start: 1978
+      end: 1978
+      place: College Park, MD, USA
+    ICC 1976:
+      count: 8th
+      start: 1976
+      end: 1976
+      place: Moscow, Russia
+    ICC 1974:
+      count: 7th
+      start: 1974
+      end: 1974
+      place: Madrid, Spain
+    ICC 1972:
+      count: 6th
+      start: 1972
+      end: 1972
+      place: Ottawa, Canada
+    ICC 1970:
+      count: 5th
+      start: 1970
+      end: 1970
+      place: Stresa, Italy
+    ICC 1968:
+      count: 4th
+      start: 1968
+      end: 1968
+      place: Delhi, India
+    ICC 1967:
+      count: 3rd
+      start: 1967
+      end: 1967
+      place: Amsterdam, The Netherlands
+    ICC 1964:
+      count: 2nd
+      start: 1964
+      end: 1964
+      place: London/Edinburgh, UK
+    ICC 1962:
+      count: 1st
+      start: 1962
+      end: 1962
+      place: Frankfurt, Germany
 ISPRS Congress:
   long name: ISPRS Congress
   events:
