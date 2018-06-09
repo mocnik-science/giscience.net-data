@@ -2,6 +2,12 @@
 ACM SIGSPATIAL:
   long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   events:
+    ACM SIGSPATIAL 2018:
+      count: 26th
+      start: 2018-11-06
+      end: 2017-11-09
+      place: Seattle, WA, USA
+      url: https://sigspatial2018.sigspatial.org
     ACM SIGSPATIAL 2017:
       count: 25th
       start: 2017-11-07
@@ -993,6 +999,10 @@ ISPRS Congress:
 ISPRS Geospatial Week:
   long name: ISPRS Geospatial Week
   events:
+    ISPRS Geospatial Week 2019:
+      start: 2019-06-10
+      end: 2019-06-14
+      place: Twente, The Netherlands
     ISPRS Geospatial Week 2017:
       start: 2017-09-08
       end: 2017-09-22
