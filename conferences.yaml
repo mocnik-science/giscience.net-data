@@ -814,3 +814,19 @@ ISPRS Congress:
       start: 1913
       end: 1913
       place: Vienna, Austria
+ISPRS Geospatial Week:
+  long name: ISPRS Geospatial Week
+  events:
+    ISPRS Geospatial Week 2017:
+      count: 
+      start: 2017-09-08
+      end: 2017-09-22
+      place: Wuhan, China
+      url: http://gsw2017.3snews.net
+    ISPRS Geospatial Week 2015:
+      count: 
+      start: 2015-09-28
+      end: 2015-10-03
+      place: La Grande Motte, France
+      url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/index.html
+      proceedings: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/index.html
