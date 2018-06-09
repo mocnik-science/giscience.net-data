@@ -157,13 +157,13 @@ AGG Annual Meeting:
       place: New Orleans, LA, USA
       url: http://app.core-apps.com/aagam2018
     AGG Annual Meeting 2017:
-      count: 113rd
+      count: 113th
       start: 2017-04-05
       end: 2017-04-09
       place: Boston, MA, USA
       url: http://app.core-apps.com/aagam2017
     AGG Annual Meeting 2016:
-      count: 112nd
+      count: 112th
       start: 2016-03-29
       end: 2016-04-02
       place: San Francisco, CA, USA
@@ -265,7 +265,7 @@ AGILE:
       count: 20th
       start: 2017-05-09
       end: 2017-05-12
-      place: Wageningen, Netherlands
+      place: Wageningen, The Netherlands
       motto: Societal Geo-Innovation
       url: http://agile-online.org/index.php/conference/conference-2017
       proceedings: http://doi.org/10.1007/978-3-319-56759-4
@@ -316,7 +316,7 @@ AGILE:
       count: 14th
       start: 2011-04-18
       end: 2011-04-21
-      place: Utrecht, Netherlands
+      place: Utrecht, The Netherlands
       motto: Advancing Geoinformation Science for a Changing World
       proceedings: http://doi.org/10.1007/978-3-642-19789-5
       proceedings2: https://agile-online.org/index.php/conference/proceedings/proceedings-2011
@@ -400,7 +400,7 @@ AGILE:
       count: 1st
       start: 1998
       end: 1998
-      place: Enschede, Netherlands
+      place: Enschede, The Netherlands
 COSIT:
   long name: Conference on Spatial Information Theory
   events:
@@ -510,14 +510,14 @@ GeoComputation:
       place: Leeds, UK
       url: http://www.geocomputation.org
     GeoComputation '15:
-      count: 13rd
+      count: 13th
       start: 2015-05-20
       end: 2015-05-23
       place: Dallas, TX, USA
       url: http://www.geocomputation.org/2015
       proceedings: http://www.geocomputation.org/2015
     GeoComputation '13:
-      count: 12nd
+      count: 12th
       start: 2013-05-23
       end: 2013-05-25
       place: Wuhan, China
