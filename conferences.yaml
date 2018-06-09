@@ -673,134 +673,12 @@ GIScience:
 ISPRS Congress:
   long name: ISPRS Congress
   events:
-    ISPRS Congress 1913:
-      count: 1st
-      start: 1913
-      end: 1913
-      place: Vienna, Austria
-    ISPRS Congress 1926:
-      count: 2nd
-      start: 1926
-      end: 1926
-      place: Berlin, Germany
-    ISPRS Congress 1930:
-      count: 3rd
-      start: 1930
-      end: 1930
-      place: Zurich, Switzerland
-    ISPRS Congress 1934:
-      count: 4th
-      start: 1934
-      end: 1934
-      place: Paris, France
-    ISPRS Congress 1938:
-      count: 5th
-      start: 1938
-      end: 1938
-      place: Rome, Italy
-    ISPRS Congress 1948:
-      count: 6th
-      start: 1948
-      end: 1948
-      place: The Hague, The Netherlands
-    ISPRS Congress 1952:
-      count: 7th
-      start: 1952
-      end: 1952
-      place: Washington, DC, USA
-    ISPRS Congress 1956:
-      count: 8th
-      start: 1956
-      end: 1956
-      place: Stockholm, Sweden
-    ISPRS Congress 1960:
-      count: 9th
-      start: 1960
-      end: 1960
-      place: London, UK
-    ISPRS Congress 1964:
-      count: 10th
-      start: 1964
-      end: 1964
-      place: Lisbon, Portugal
-    ISPRS Congress 1968:
-      count: 11th
-      start: 1968
-      end: 1968
-      place: Lousanne, Switzerland
-    ISPRS Congress 1972:
-      count: 12th
-      start: 1972
-      end: 1972
-      place: Ottawa, Canada
-    ISPRS Congress 1976:
-      count: 13th
-      start: 1976
-      end: 1976
-      place: Helsinki, Finland
-    ISPRS Congress 1980:
-      count: 14th
-      start: 1980-07-13
-      end: 1980-07-25
-      place: Hamburg, Germany
-      url: http://www.isprs.org/congresses/hamburg1980
-      proceedings: http://www.isprs.org/congresses/hamburg1980
-    ISPRS Congress 1984:
-      count: 15th
-      start: 1984-07-17
-      end: 1984-07-29
-      place: Rio de Janeiro, Brazil
-      url: http://www.isprs.org/congresses/rio1984
-      proceedings: http://www.isprs.org/congresses/rio1984
-    ISPRS Congress 1988:
-      count: 16th
-      start: 1988
-      end: 1988
-      place: Kyoto, Japan
-      url: http://www.isprs.org/congresses/kyoto1988
-      proceedings: http://www.isprs.org/congresses/kyoto1988
-    ISPRS Congress 1992:
-      count: 17th
-      start: 1992
-      end: 1992
-      place: Washington, DC, USA
-      url: http://www.isprs.org/congresses/washington1992
-      proceedings: http://www.isprs.org/congresses/washington1992
-    ISPRS Congress 1996:
-      count: 18th
-      start: 1996
-      end: 1996
-      place: Vienna
-      url: http://www.isprs.org/congresses/vienna1996
-      proceedings: http://www.isprs.org/congresses/vienna1996
-    ISPRS Congress 2000:
-      count: 19th
-      start: 2000-07-16
-      end: 2000-07-23
-      place: Amsterdam, The Netherlands
-      url: http://www.isprs.org/congresses/amsterdam2000
-      proceedings: http://www.isprs.org/congresses/amsterdam2000
-    ISPRS Congress 2004:
-      count: 20th
-      start: 2004-07-12
-      end: 2004-07-23
-      place: Istanbul, Turkey
-      url: http://www.isprs.org/congresses/istanbul2004
-      proceedings: http://www.isprs.org/congresses/istanbul2004
-    ISPRS Congress 2008:
-      count: 21st
-      start: 2008-07-03
-      end: 2008-07-11
-      place: Beijing, China
-      url: http://www.isprs.org/congresses/beijing2008
-      proceedings: http://www.isprs.org/congresses/beijing2008
-    ISPRS Congress 2012:
-      count: 22nd
-      start: 2012-08-25
-      end: 2012-09-01
-      place: Melbourne, Australia
-      url: http://www.isprs.org/congresses/melbourne2012
-      proceedings: http://www.isprs.org/congresses/melbourne2012
+    ISPRS Congress 2020:
+      count: 24th
+      start: 2020-06-14
+      end: 2020-06-20
+      place: Nice, France
+      url: http://www.isprs2020-nice.com
     ISPRS Congress 2016:
       count: 23rd
       start: 2016-07-12
@@ -808,9 +686,131 @@ ISPRS Congress:
       place: Prague, Czech Republic
       url: http://www.isprs.org/congresses/prague2016
       proceedings: http://www.isprs.org/congresses/prague2016
-    ISPRS Congress 2020:
-      count: 24th
-      start: 2020-06-14
-      end: 2020-06-20
-      place: Nice, France
-      url: http://www.isprs2020-nice.com
+    ISPRS Congress 2012:
+      count: 22nd
+      start: 2012-08-25
+      end: 2012-09-01
+      place: Melbourne, Australia
+      url: http://www.isprs.org/congresses/melbourne2012
+      proceedings: http://www.isprs.org/congresses/melbourne2012
+    ISPRS Congress 2008:
+      count: 21st
+      start: 2008-07-03
+      end: 2008-07-11
+      place: Beijing, China
+      url: http://www.isprs.org/congresses/beijing2008
+      proceedings: http://www.isprs.org/congresses/beijing2008
+    ISPRS Congress 2004:
+      count: 20th
+      start: 2004-07-12
+      end: 2004-07-23
+      place: Istanbul, Turkey
+      url: http://www.isprs.org/congresses/istanbul2004
+      proceedings: http://www.isprs.org/congresses/istanbul2004
+    ISPRS Congress 2000:
+      count: 19th
+      start: 2000-07-16
+      end: 2000-07-23
+      place: Amsterdam, The Netherlands
+      url: http://www.isprs.org/congresses/amsterdam2000
+      proceedings: http://www.isprs.org/congresses/amsterdam2000
+    ISPRS Congress 1996:
+      count: 18th
+      start: 1996
+      end: 1996
+      place: Vienna
+      url: http://www.isprs.org/congresses/vienna1996
+      proceedings: http://www.isprs.org/congresses/vienna1996
+    ISPRS Congress 1992:
+      count: 17th
+      start: 1992
+      end: 1992
+      place: Washington, DC, USA
+      url: http://www.isprs.org/congresses/washington1992
+      proceedings: http://www.isprs.org/congresses/washington1992
+    ISPRS Congress 1988:
+      count: 16th
+      start: 1988
+      end: 1988
+      place: Kyoto, Japan
+      url: http://www.isprs.org/congresses/kyoto1988
+      proceedings: http://www.isprs.org/congresses/kyoto1988
+    ISPRS Congress 1984:
+      count: 15th
+      start: 1984-07-17
+      end: 1984-07-29
+      place: Rio de Janeiro, Brazil
+      url: http://www.isprs.org/congresses/rio1984
+      proceedings: http://www.isprs.org/congresses/rio1984
+    ISPRS Congress 1980:
+      count: 14th
+      start: 1980-07-13
+      end: 1980-07-25
+      place: Hamburg, Germany
+      url: http://www.isprs.org/congresses/hamburg1980
+      proceedings: http://www.isprs.org/congresses/hamburg1980
+    ISPRS Congress 1976:
+      count: 13th
+      start: 1976
+      end: 1976
+      place: Helsinki, Finland
+    ISPRS Congress 1972:
+      count: 12th
+      start: 1972
+      end: 1972
+      place: Ottawa, Canada
+    ISPRS Congress 1968:
+      count: 11th
+      start: 1968
+      end: 1968
+      place: Lousanne, Switzerland
+    ISPRS Congress 1964:
+      count: 10th
+      start: 1964
+      end: 1964
+      place: Lisbon, Portugal
+    ISPRS Congress 1960:
+      count: 9th
+      start: 1960
+      end: 1960
+      place: London, UK
+    ISPRS Congress 1956:
+      count: 8th
+      start: 1956
+      end: 1956
+      place: Stockholm, Sweden
+    ISPRS Congress 1952:
+      count: 7th
+      start: 1952
+      end: 1952
+      place: Washington, DC, USA
+    ISPRS Congress 1948:
+      count: 6th
+      start: 1948
+      end: 1948
+      place: The Hague, The Netherlands
+    ISPRS Congress 1938:
+      count: 5th
+      start: 1938
+      end: 1938
+      place: Rome, Italy
+    ISPRS Congress 1934:
+      count: 4th
+      start: 1934
+      end: 1934
+      place: Paris, France
+    ISPRS Congress 1930:
+      count: 3rd
+      start: 1930
+      end: 1930
+      place: Zurich, Switzerland
+    ISPRS Congress 1926:
+      count: 2nd
+      start: 1926
+      end: 1926
+      place: Berlin, Germany
+    ISPRS Congress 1913:
+      count: 1st
+      start: 1913
+      end: 1913
+      place: Vienna, Austria
