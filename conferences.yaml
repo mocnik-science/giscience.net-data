@@ -1,4 +1,146 @@
 ---
+ACM SIGSPATIAL:
+  long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
+  events:
+    ACM SIGSPATIAL 2017:
+      count: 25th
+      start: 2017-11-07
+      end: 2017-11-10
+      place: Redondo Beach, CA, USA
+      url: https://sigspatial2017.sigspatial.org
+    ACM SIGSPATIAL 2016:
+      count: 24th
+      start: 2016-10-31
+      end: 2016-11-03
+      place: Burlingame, CA, USA
+      url: https://sigspatial2016.sigspatial.org
+    ACM SIGSPATIAL 2015:
+      count: 23rd
+      start: 2015-11-03
+      end: 2015-11-06
+      place: Seattle, WA, USA
+      url: https://sigspatial2015.sigspatial.org
+    ACM SIGSPATIAL 2014:
+      count: 22nd
+      start: 2014-11-04
+      end: 2014-11-07
+      place: Dallas, TX, USA
+      url: http://sigspatial2014.sigspatial.org
+    ACM SIGSPATIAL 2013:
+      count: 21st
+      start: 2013-11-05
+      end: 2013-11-08
+      place: Orlando, FL, USA
+      url: https://sigspatial2013.sigspatial.org
+    ACM SIGSPATIAL 2012:
+      count: 20th
+      start: 2012-11-06
+      end: 2012-11-09
+      place: Redondo Beach, CA, USA
+      url: http://acmgis2012.cs.umd.edu
+    ACM SIGSPATIAL 2011:
+      count: 19th
+      start: 2011-11-01
+      end: 2011-11-04
+      place: Chicago, IL, USA
+      url: http://acmgis2011.cs.umn.edu
+    ACM SIGSPATIAL 2010:
+      count: 18th
+      start: 2010-11-02
+      end: 2010-11-05
+      place: San Jose, CA, USA
+      url: http://acmgis2010.cs.ucsb.edu
+    ACM SIGSPATIAL 2009:
+      count: 17th
+      start: 2009-11-04
+      end: 2009-11-16
+      place: Seattle, WA, USA
+      url: http://acmgis09.cs.umn.edu
+    ACM SIGSPATIAL 2008:
+      count: 16th
+      start: 2008-11-05
+      end: 2008-11-07
+      place: Irvine, CA, USA
+      url: http://acmgis08.cs.umn.edu/
+    ACM SIGSPATIAL 2007:
+      count: 15th
+      start: 2007-11-07
+      end: 2007-11-09
+      place: Seattle, WA, USA
+      url: https://web.archive.org/web/20090305094617/http://www.informatik.uni-trier.de/~ley/db/conf/gis/gis2007.html
+    ACM SIGSPATIAL 2006:
+      count: 14th
+      start: 2006-11-10
+      end: 2006-11-11
+      place: Arlington, VA, USA
+      url: https://web.archive.org/web/20070617075607/http://www.itc.nl/acmgis06/
+    ACM SIGSPATIAL 2005:
+      count: 13th
+      start: 2005-11-04
+      end: 2005-11-05
+      place: Bremen, Germany
+      url: https://infolab.usc.edu/acmgis05/
+    ACM SIGSPATIAL 2004:
+      count: 12th
+      start: 2004-11-12
+      end: 2004-11-13
+      place: Washington, DC, USA
+      url: https://web.archive.org/web/20050405003939/http://acmgis2004.cti.gr
+    ACM SIGSPATIAL 2003:
+      count: 11th
+      start: 2003-11-07
+      end: 2003-11-08
+      place: New Orleans, LA, USA
+    ACM SIGSPATIAL 2002:
+      count: 10th
+      start: 2002-11-08
+      end: 2002-11-09
+      place: McLean, VA, USA
+    ACM SIGSPATIAL 2001:
+      count: 9th
+      start: 2001-11-09
+      end: 2001-11-10
+      place: Atlanta, GA, USA
+    ACM SIGSPATIAL 2000:
+      count: 8th
+      start: 2000-11-10
+      end: 2000-11-11
+      place: Washington, DC, USA
+    ACM SIGSPATIAL 1999:
+      count: 7th
+      start: 1999-11-02
+      end: 1999-11-06
+      place: Kansas City, MO, USA
+    ACM SIGSPATIAL 1998:
+      count: 6th
+      start: 1998-11-06
+      end: 1998-11-07
+      place: Washington, DC, USA
+    ACM SIGSPATIAL 1997:
+      count: 5th
+      start: 1997-11-13
+      end: 1997-11-14
+      place: Las Vegas, NV, USA
+    ACM SIGSPATIAL 1996:
+      count: 4th
+      start: 1996-11-15
+      end: 1996-11-16
+      place: Rockville, MD, USA
+    ACM SIGSPATIAL 1995:
+      count: 3rd
+      start: 1995-12-01
+      end: 1995-12-02
+      place: Baltimore, MD, USA
+    ACM SIGSPATIAL 1994:
+      count: 2nd
+      start: 1994
+      end: 1994
+      place: Gaithersburg, MD, USA
+    ACM SIGSPATIAL 1993:
+      count: 1st
+      start: 1993
+      end: 1993
+      place: Arlington, VA, USA
 AGG Annual Meeting:
   long name: American Association of Geographers Annual Meeting
   events:
@@ -27,7 +169,7 @@ AGG Annual Meeting:
       place: San Francisco, CA, USA
       url: http://app.core-apps.com/aagam2016
     AGG Annual Meeting 2015:
-      count: 111st
+      count: 111th
       start: 2015-04-21
       end: 2015-04-25
       place: Chicago, IL, USA
@@ -382,7 +524,7 @@ GeoComputation:
       url: http://www.geocomputation.org/2013
       proceedings: http://www.geocomputation.org/2013
     GeoComputation '11:
-      count: 11st
+      count: 11th
       start: 2011-07-20
       end: 2011-07-22
       place: London, UK
