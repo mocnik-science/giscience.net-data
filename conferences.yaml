@@ -260,6 +260,11 @@ AGG Annual Meeting:
 AGILE:
   long name: AGILE Conference on Geo-Information Science
   events:
+    AGILE 2019:
+      count: 22nd
+      start: 2019-06-17
+      end: 2019-06-20
+      place: Limassol, Cyprus
     AGILE 2018:
       count: 21st
       start: 2018-06-12
@@ -267,6 +272,8 @@ AGILE:
       place: Lund, Sweden
       motto: Geospatial Technologies for All
       url: http://agile-online.org/index.php/conference/conference-2018
+      proceedings: https://www.springer.com/gp/book/9783319782072
+      proceedings2: https://agile-online.org/conference-2018/programme-2018/accepted-papers-and-posters-2018
     AGILE 2017:
       count: 20th
       start: 2017-05-09
@@ -410,6 +417,12 @@ AGILE:
 COSIT:
   long name: Conference on Spatial Information Theory
   events:
+    COSIT 2019:
+      count: 14th
+      start: 2017-09-09
+      end: 2017-09-13
+      place: Regensburg, Germany
+      url: cosit2019.ur.de
     COSIT 2017:
       count: 13th
       start: 2017-09-04
