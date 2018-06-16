@@ -422,7 +422,7 @@ COSIT:
       start: 2019-09-09
       end: 2019-09-13
       place: Regensburg, Germany
-      url: cosit2019.ur.de
+      url: http://cosit2019.ur.de
     COSIT 2017:
       count: 13th
       start: 2017-09-04
