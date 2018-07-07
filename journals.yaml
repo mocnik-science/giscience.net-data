@@ -71,7 +71,7 @@ GSIS:
   abbreviation: GSIS
   url: http://www.tandfonline.com/toc/tgsi20/current
   publisher: Taylor & Francis
-  open access: false
+  open access: true
 IJDE:
   name: International Journal of Digital Earth
   abbreviation: IJDE
