@@ -423,6 +423,8 @@ COSIT:
       end: 2019-09-13
       place: Regensburg, Germany
       url: http://cosit2019.ur.de
+      deadlineFullPaper: 2019-02-01
+      deadlineShortPaper: 2019-04-01
     COSIT 2017:
       count: 13th
       start: 2017-09-04

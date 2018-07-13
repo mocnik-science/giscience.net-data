@@ -25,11 +25,15 @@ COSIT 2017:
   url: http://www.cosit2017.org
   proceedings: http://drops.dagstuhl.de/opus/volltexte/lipics-complete/lipics-vol86-cosit2017-complete.pdf
   proceedings2: http://doi.org/10.1007/978-3-319-63946-8
+  deadlineFullPaper: 2017-02-01
+  deadlineShortPaper: 2017-04-01
 ```
 
 If you do not know the exact `start` and `end` date, please only note the year in the corresponding fields.
 
 The field `proceedings` refers to the main proceedings of the conference (e.g., long papers), while `proceedings2` refers to additional proceedings (e.g., short papers and posters).  If a doi is available, please use `http://doi.org/...` as a url.
+
+Paper deadlines are only needed for current conferences.  Deadlines of past conferences will not be shown.
 
 Please add only conferences series that comply to the following rules:
 
