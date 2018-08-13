@@ -182,3 +182,9 @@ TGRS:
   url: http://ieeexplore.ieee.org/servlet/opac?punumber=36
   publisher: IEEE
   open access: false
+TSAS:
+  name: ACM Transactions on Spatial Algorithms and Systems
+  url: https://tsas.acm.org/index.cfm
+  publisher: ACM
+  open access: false
+  
