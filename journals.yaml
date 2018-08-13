@@ -184,7 +184,6 @@ TGRS:
   open access: false
 TSAS:
   name: ACM Transactions on Spatial Algorithms and Systems
-  url: https://tsas.acm.org/index.cfm
+  url: https://tsas.acm.org
   publisher: ACM
   open access: false
-  
