@@ -704,6 +704,8 @@ ICC:
       motto: Mapping everything for everyone
       url: http://www.icc2019.org
       proceedings: https://icaci.org/icc2019/
+      deadlineFullPaper: 2018-12-05
+      deadlineShortPaper: 2018-12-19
     ICC 2017:
       count: 28th
       start: 2017-07-02
