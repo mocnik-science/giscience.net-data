@@ -1,7 +1,7 @@
 ---
 AAG:
   name: Annals of the American Association of Geographers
-  url: https://www.tandfonline.com/toc/raag20/current
+  url: http://www.tandfonline.com/toc/raag20/current
   publisher: Taylor & Francis
   open access: false
 AJoG:
@@ -42,7 +42,7 @@ CTIJfGIaG:
   open access: false
 EaPBPaD:
   name: 'Environment and Planning B: Urban Analytics and City Science'
-  abbreviation: EnvPlanB
+  abbreviation: Env Plan B
   url: http://journals.sagepub.com/home/epb
   publisher: SAGE
   open access: false
