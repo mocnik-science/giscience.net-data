@@ -90,6 +90,12 @@ IJGGS:
   url: http://www.ipublishing.co.in/jggsindex.html
   publisher: IPA
   open access: true
+IJGI:
+  name: ISPRS International Journal of Geo-Information
+  abbreviation: IJGI
+  url: https://www.mdpi.com/journal/ijgi
+  publisher: MDPI
+  open access: true
 IJGIS:
   name: International Journal of Geographical Information Science
   abbreviation: IJGIS
@@ -105,6 +111,12 @@ IJoG:
   name: International Journal of Geoinformatics
   url: http://e-geoinfo.net
   open access: false
+IJoPaRS:
+  name: ISPRS Journal of Photogrammetry and Remote Sensing
+  url: https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/
+  publisher: Elsevier
+  open access: false
+
 IJoRS:
   name: International Journal of Remote Sensing
   url: https://www.tandfonline.com/loi/tres20/current
@@ -140,11 +152,6 @@ JOSIS:
 JoSS:
   name: Journal of Spatial Science
   url: http://www.tandfonline.com/toc/tjss20/current
-  open access: false
-IJoPaRS:
-  name: ISPRS Journal of Photogrammetry and Remote Sensing
-  url: https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/
-  publisher: Elsevier
   open access: false
 OGDSaS:
   name: Open Geospatial Data, Software and Standards
