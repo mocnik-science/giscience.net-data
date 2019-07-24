@@ -4,11 +4,18 @@ AAG Annual Meeting:
   events:
     AAG Annual Meeting 2019:
       count: 115th
+      start: 2019-04-06
+      end: 2019-04-10
+      place: Denver, CO, USA
+      url: https://annualmeeting.aag.org
+      deadlineShortPaper: 2018-10-30
+      deadlinePoster: 2020-01-31
+    AAG Annual Meeting 2019:
+      count: 115th
       start: 2019-04-03
       end: 2019-04-07
       place: Washington, DC, USA
-      url: https://annualmeeting.aag.org
-      deadlineFullPaper: 2018-10-25
+      deadlineShortPaper: 2018-10-25
       deadlinePoster: 2019-01-31
     AAG Annual Meeting 2018:
       count: 114th
@@ -529,12 +536,20 @@ COSIT:
 GeoComputation:
   long name: GeoComputation
   events:
+    GeoComputation '19:
+      count: 15th
+      start: 2019-09-18
+      end: 2019-09-21
+      place: Queenstown, New Zealand
+      url: http://www.geocomputation.org
+      deadlineShortPaper: 2019-06-14
     GeoComputation '17:
       count: 14th
       start: 2017-09-04
       end: 2017-09-07
       place: Leeds, UK
-      url: http://www.geocomputation.org
+      url: http://www.geocomputation.org/2017
+      proceedings: http://www.geocomputation.org/2017
     GeoComputation '15:
       count: 13th
       start: 2015-05-20
@@ -629,12 +644,17 @@ GeoComputation:
 GIScience:
   long name: International Conference on Geographic Information Science
   events:
+    GIScience 2020:
+      count: 11th
+      start: 2018-08-15
+      end: 2018-08-18
+      place: Poznań, Poland
+      url: http://www.giscience.org
     GIScience 2018:
       count: 10th
       start: 2018-08-28
       end: 2018-08-31
       place: Melbourne, Australia
-      url: http://www.giscience.org
       proceedings: http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16081
     GIScience 2016:
       count: 9th
@@ -700,6 +720,11 @@ GIScience:
 ICC:
   long name: International Cartographic Conference
   events:
+    ICC 2021:
+      count: 30th
+      start: 2021-07-19
+      end: 2021-07-23
+      place: Florence, Italy
     ICC 2019:
       count: 29th
       start: 2019-07-15
@@ -1024,6 +1049,10 @@ ISPRS Congress:
 ISPRS Geospatial Week:
   long name: ISPRS Geospatial Week
   events:
+    ISPRS Geospatial Week 2021:
+      start: 2021-03-21
+      end: 2021-03-25
+      place: Dubai, United Arab Emirates
     ISPRS Geospatial Week 2019:
       start: 2019-06-10
       end: 2019-06-14
