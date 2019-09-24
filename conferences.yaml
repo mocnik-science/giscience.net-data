@@ -2,13 +2,13 @@
 AAG Annual Meeting:
   long name: American Association of Geographers Annual Meeting
   events:
-    AAG Annual Meeting 2019:
-      count: 115th
-      start: 2019-04-06
-      end: 2019-04-10
+    AAG Annual Meeting 2020:
+      count: 116th
+      start: 2020-04-06
+      end: 2020-04-10
       place: Denver, CO, USA
       url: https://annualmeeting.aag.org
-      deadlineShortPaper: 2018-10-30
+      deadlineShortPaper: 2019-10-30
       deadlinePoster: 2020-01-31
     AAG Annual Meeting 2019:
       count: 115th
@@ -121,6 +121,14 @@ AAG Annual Meeting:
 ACM SIGSPATIAL:
   long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   events:
+    ACM SIGSPATIAL 2019:
+      count: 27th
+      start: 2019-11-05
+      end: 2019-11-08
+      place: Chicago, IL, USA
+      url: https://sigspatial2018.sigspatial.org
+      deadlineFullPaper: 2019-06-11
+      deadlineShortPaper: 2019-06-04
     ACM SIGSPATIAL 2018:
       count: 26th
       start: 2018-11-06
@@ -269,6 +277,11 @@ ACM SIGSPATIAL:
 AGILE:
   long name: AGILE Conference on Geo-Information Science
   events:
+    AGILE 2020:
+      count: 23nd
+      start: 2020-06-16
+      end: 2020-06-19
+      place: Chania, Crete, Greece
     AGILE 2019:
       count: 22nd
       start: 2019-06-17
