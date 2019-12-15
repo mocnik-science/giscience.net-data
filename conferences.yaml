@@ -282,6 +282,9 @@ AGILE:
       start: 2020-06-16
       end: 2020-06-19
       place: Chania, Crete, Greece
+      deadlineFullPaper: 2019-12-22
+      deadlineShortPaper: 2020-02-21
+      deadlinePoster: 2020-02-21
     AGILE 2019:
       count: 22nd
       start: 2019-06-17
