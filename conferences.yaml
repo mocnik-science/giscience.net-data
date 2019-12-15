@@ -663,6 +663,8 @@ GIScience:
       end: 2020-09-18
       place: Poznań, Poland
       url: http://www.giscience.org
+      deadlineFullPaper: 2020-03-16
+      deadlineShortPaper: 2020-05-25
     GIScience 2018:
       count: 10th
       start: 2018-08-28
