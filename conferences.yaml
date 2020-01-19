@@ -1086,3 +1086,28 @@ ISPRS Geospatial Week:
       place: La Grande Motte, France
       url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/index.html
       proceedings: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/index.html
+PLATIAL:
+  long name: PLATIAL Symposium Series
+  events:
+    PLATIAL'20:
+      count: 3rd
+      start: 2020-09-09
+      end: 2020-09-11
+      place: Enschede, The Netherlands
+      url: http://platial20.platialscience.net
+      deadlineShortPaper: 2020-07-03
+    PLATIAL'19:
+      count: 2nd
+      start: 2019-09-05
+      end: 2019-09-06
+      place: Coventry, UK
+      url: http://platial19.platialscience.net
+      deadlineShortPaper: 2019-07-29
+    PLATIAL'18:
+      count: 1st
+      start: 2018-09-20
+      end: 2018-09-21
+      place: Heidelberg, Germany
+      url: http://platial18.platialscience.net
+      proceedings: https://doi.org/10.5281/zenodo.1475269
+      deadlineShortPaper: 2018-07-25
