@@ -152,9 +152,9 @@ JoSS:
   name: Journal of Spatial Science
   url: http://www.tandfonline.com/toc/tjss20/current
   open access: false
-KNJC:
+KN:
   name: KN - Journal of Cartography and Geographic Information
-  abbreviation: KNJC
+  abbreviation: KN
   url: https://link.springer.com/journal/42489
   publisher: Springer
   open access: true
