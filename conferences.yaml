@@ -121,12 +121,20 @@ AAG Annual Meeting:
 ACM SIGSPATIAL:
   long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   events:
+    ACM SIGSPATIAL 2020:
+      count: 28th
+      start: 2020-11-03
+      end: 2020-11-06
+      place: Beijing, Chiina
+      url: https://sigspatial2020.sigspatial.org
+      deadlineFullPaper: 2020-05-25
+      deadlineShortPaper: 2020-05-18
     ACM SIGSPATIAL 2019:
       count: 27th
       start: 2019-11-05
       end: 2019-11-08
       place: Chicago, IL, USA
-      url: https://sigspatial2018.sigspatial.org
+      url: https://sigspatial2019.sigspatial.org
       deadlineFullPaper: 2019-06-11
       deadlineShortPaper: 2019-06-04
     ACM SIGSPATIAL 2018:
