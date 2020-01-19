@@ -152,6 +152,12 @@ JoSS:
   name: Journal of Spatial Science
   url: http://www.tandfonline.com/toc/tjss20/current
   open access: false
+KN:
+  name: KN - Journal of Cartography and Geographic Information
+  abbreviation: KN
+  url: https://link.springer.com/journal/42489
+  publisher: Springer
+  open access: true
 OGDSaS:
   name: Open Geospatial Data, Software and Standards
   url: http://opengeospatialdata.springeropen.com
