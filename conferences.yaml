@@ -447,8 +447,8 @@ AGILE:
       place: Rome, Italy
     AGILE 1998:
       count: 1st
-      start: 1998
-      end: 1998
+      start: 1998-04-23
+      end: 1998-04-25
       place: Enschede, The Netherlands
 COSIT:
   long name: Conference on Spatial Information Theory
