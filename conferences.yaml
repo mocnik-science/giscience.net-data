@@ -285,14 +285,14 @@ ACM SIGSPATIAL:
 AGILE:
   long name: AGILE Conference on Geographic Information Science
   events:
-    AGILE 2020:
-      count: 23rd
-      start: 2020-06-16
-      end: 2020-06-19
-      place: Chania, Crete, Greece
-      deadlineFullPaper: 2019-12-22
-      deadlineShortPaper: 2020-02-21
-      deadlinePoster: 2020-02-21
+    # AGILE 2020:
+    #   count: 23rd
+    #   start: 2020-06-16
+    #   end: 2020-06-19
+    #   place: Chania, Crete, Greece
+    #   deadlineFullPaper: 2019-12-22
+    #   deadlineShortPaper: 2020-02-21
+    #   deadlinePoster: 2020-02-21
     AGILE 2019:
       count: 22nd
       start: 2019-06-17
@@ -668,14 +668,14 @@ GeoComputation:
 GIScience:
   long name: International Conference on Geographic Information Science
   events:
-    GIScience 2020:
+    GIScience 2021:
       count: 11th
-      start: 2020-09-15
-      end: 2020-09-18
+      start: 2021-09-27
+      end: 2021-09-30
       place: Poznań, Poland
       url: http://www.giscience.org
-      deadlineFullPaper: 2020-04-20
-      deadlineShortPaper: 2020-06-05
+      # deadlineFullPaper: 2020-04-20
+      # deadlineShortPaper: 2020-06-05
     GIScience 2018:
       count: 10th
       start: 2018-08-28
@@ -929,14 +929,14 @@ ICC:
 ISPRS Congress:
   long name: ISPRS Congress
   events:
-    ISPRS Congress 2020:
+    ISPRS Congress 2021:
       count: 24th
-      start: 2020-06-14
-      end: 2020-06-20
+      start: 2021-06-04
+      end: 2021-06-10
       place: Nice, France
       url: http://www.isprs2020-nice.com
-      deadlineFullPaper: 2020-02-03
-      deadlineShortPaper: 2020-02-03
+      deadlineFullPaper: 2021-02-05
+      deadlineShortPaper: 2021-02-05
     ISPRS Congress 2016:
       count: 23rd
       start: 2016-07-12
@@ -1097,13 +1097,13 @@ ISPRS Geospatial Week:
 PLATIAL:
   long name: Symposium on Platial Information Science
   events:
-    PLATIAL'20:
+    PLATIAL'21:
       count: 3rd
-      start: 2020-09-09
-      end: 2020-09-11
+      # start: 2021-09-09
+      # end: 2021-09-11
       place: Enschede, The Netherlands
       url: http://platial20.platialscience.net
-      deadlineShortPaper: 2020-07-03
+      # deadlineShortPaper: 2020-07-03
     PLATIAL'19:
       count: 2nd
       start: 2019-09-05
