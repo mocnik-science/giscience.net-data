@@ -132,6 +132,12 @@ JoGS:
   url: https://link.springer.com/journal/10109
   publisher: Springer
   open access: false
+JGSA:
+  name: Journal of Geovisualization and Spatial Analysis
+  abbreviation: JGSA
+  url: https://www.springer.com/journal/41651
+  publisher: 
+  open access: false
 JoLBS:
   name: Journal of Location Based Services
   url: http://www.tandfonline.com/toc/tlbs20/current

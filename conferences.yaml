@@ -2,6 +2,21 @@
 AAG Annual Meeting:
   long name: American Association of Geographers Annual Meeting
   events:
+    AAG Annual Meeting 2022:
+      count: 118th
+      start: 2022-02-25
+      end: 2022-03-02
+      place: NYC, NY, USA
+      url: http://www.aag.org/cs/aag2022nyc
+      deadlineShortPaper: 2021-10-19
+      deadlinePoster: 2022-01-06
+    AAG Annual Meeting 2021:
+      count: 117th
+      start: 2021-04-07
+      end: 2021-04-11
+      place: Seattle, WA, USA / online
+      deadlineShortPaper: 2021-02-19
+      deadlinePoster: 2021-01-29
     AAG Annual Meeting 2020:
       count: 116th
       start: 2020-04-06
@@ -121,14 +136,22 @@ AAG Annual Meeting:
 ACM SIGSPATIAL:
   long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   events:
+    ACM SIGSPATIAL 2021:
+      count: 29th
+      start: 2021-11-02
+      end: 2021-11-05
+      place: Beijing, China
+      url: https://sigspatial2021.sigspatial.org
+      deadlineFullPaper: 2021-06-10
+      deadlineShortPaper: 2021-05-27
     ACM SIGSPATIAL 2020:
       count: 28th
       start: 2020-11-03
       end: 2020-11-06
-      place: Beijing, Chiina
+      place: Seattle, WA, USA / online
       url: https://sigspatial2020.sigspatial.org
-      deadlineFullPaper: 2020-05-25
-      deadlineShortPaper: 2020-05-18
+      deadlineFullPaper: 2020-06-23
+      deadlineShortPaper: 2020-06-16
     ACM SIGSPATIAL 2019:
       count: 27th
       start: 2019-11-05
@@ -285,22 +308,23 @@ ACM SIGSPATIAL:
 AGILE:
   long name: AGILE Conference on Geographic Information Science
   events:
-    # AGILE 2020:
-    #   count: 23rd
-    #   start: 2020-06-16
-    #   end: 2020-06-19
-    #   place: Chania, Crete, Greece
-    #   deadlineFullPaper: 2019-12-22
-    #   deadlineShortPaper: 2020-02-21
-    #   deadlinePoster: 2020-02-21
+    AGILE 2021:
+      count: 24th
+      start: 2021-06-08
+      end: 2021-06-11
+      place: Crete, Greece / online
+      url: https://agile-online.org/conference-2021
+      deadlineFullPaper: 2021-03-12
+      deadlineShortPaper: 2021-04-24
+      deadlinePoster: 2021-04-24
     AGILE 2019:
       count: 22nd
       start: 2019-06-17
       end: 2019-06-20
       place: Limassol, Cyprus
+      url: https://agile-online.org/conference-2019
       deadlineFullPaper: 2018-12-09
       deadlineShortPaper: 2019-03-03
-      url: https://agile-online.org/conference-2019
     AGILE 2018:
       count: 21st
       start: 2018-06-12
@@ -560,12 +584,20 @@ COSIT:
 GeoComputation:
   long name: GeoComputation
   events:
+    GeoComputation '21:
+      count: 16th
+      start: 2021-10-05
+      end: 2021-10-08
+      place: Park City, UT, USA
+      url: https://geog.utah.edu/geocomp21/
+      deadlineFullPaper: 2021-06-04
+      deadlineShortPaper: 2021-07-09
     GeoComputation '19:
       count: 15th
       start: 2019-09-18
       end: 2019-09-21
       place: Queenstown, New Zealand
-      url: http://www.geocomputation.org
+      url: https://www.otago.ac.nz/geocomputation/
       deadlineShortPaper: 2019-06-14
     GeoComputation '17:
       count: 14th
@@ -672,10 +704,10 @@ GIScience:
       count: 11th
       start: 2021-09-27
       end: 2021-09-30
-      place: Poznań, Poland
+      place: Poznań, Poland / online
       url: http://www.giscience.org
-      # deadlineFullPaper: 2020-04-20
-      # deadlineShortPaper: 2020-06-05
+      deadlineFullPaper: 2021-04-30
+      deadlineShortPaper: 2021-06-30
     GIScience 2018:
       count: 10th
       start: 2018-08-28
@@ -748,9 +780,12 @@ ICC:
   events:
     ICC 2021:
       count: 30th
-      start: 2021-07-19
-      end: 2021-07-23
+      start: 2021-12-14
+      end: 2021-12-18
       place: Florence, Italy
+      url: https://www.icc2021.net
+      deadlineFullPaper: 2021-04-16
+      deadlineShortPaper: 2021-06-20
     ICC 2019:
       count: 29th
       start: 2019-07-15
@@ -931,10 +966,12 @@ ISPRS Congress:
   events:
     ISPRS Congress 2021:
       count: 24th
-      start: 2021-06-04
-      end: 2021-06-10
-      place: Nice, France
+      start: 2021-06-05
+      end: 2021-06-09
+      place: Nice, France / online
       url: http://www.isprs2020-nice.com
+      proceedings: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-1-2021/
+      proceedings2: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2021/
       deadlineFullPaper: 2021-02-05
       deadlineShortPaper: 2021-02-05
     ISPRS Congress 2016:
@@ -1099,11 +1136,11 @@ PLATIAL:
   events:
     PLATIAL'21:
       count: 3rd
-      # start: 2021-09-09
-      # end: 2021-09-11
-      place: Enschede, The Netherlands
-      url: http://platial20.platialscience.net
-      # deadlineShortPaper: 2020-07-03
+      start: 2021-12-15
+      end: 2021-12-17
+      place: Enschede, The Netherlands / online
+      url: http://platial21.platialscience.net
+      deadlineShortPaper: 2021-10-14
     PLATIAL'19:
       count: 2nd
       start: 2019-09-05
