@@ -2,6 +2,13 @@
 AAG Annual Meeting:
   long name: American Association of Geographers Annual Meeting
   events:
+    AAG Annual Meeting 2023:
+      count: 119th
+      start: 2023-03-23
+      end: 2023-03-27
+      place: Denver, CO, USA
+      url: https://www.aag.org/events/aag2023/
+      deadlineShortPaper: 2022-11-10
     AAG Annual Meeting 2022:
       count: 118th
       start: 2022-02-25
@@ -136,6 +143,13 @@ AAG Annual Meeting:
 ACM SIGSPATIAL:
   long name: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   events:
+    ACM SIGSPATIAL 2022:
+      count: 30th
+      start: 2022-11-01
+      end: 2022-11-04
+      place: Seattle, WA, USA
+      url: https://sigspatial2021.sigspatial.org
+      deadlineFullPaper: 2022-06-17
     ACM SIGSPATIAL 2021:
       count: 29th
       start: 2021-11-02
@@ -308,6 +322,21 @@ ACM SIGSPATIAL:
 AGILE:
   long name: AGILE Conference on Geographic Information Science
   events:
+    AGILE 2023:
+      count: 26th
+      start: 2023-06-13
+      end: 2023-06-16
+      place: Delft, the Netherlands
+      url: https://agile-online.org/conference-2023
+      deadlineFullPaper: 2022-12-05
+      deadlineShortPaper: 2023-03-01
+      deadlinePoster: 2023-03-01
+    AGILE 2022:
+      count: 25th
+      start: 2022-06-14
+      end: 2022-06-17
+      place: Vilnius, Lithuania
+      url: https://agile-online.org/conference-2022
     AGILE 2021:
       count: 24th
       start: 2021-06-08
@@ -476,7 +505,15 @@ AGILE:
       place: Enschede, The Netherlands
 COSIT:
   long name: Conference on Spatial Information Theory
-  events:
+  events:  
+    COSIT 2022:
+      count: 15th
+      start: 2022-09-05
+      end: 2022-09-09
+      place: Kobe, Japan
+      url: https://cosit2022.iniad.org/
+      deadlineFullPaper: 2022-03-21
+      deadlineShortPaper: 2022-04-08  
     COSIT 2019:
       count: 14th
       start: 2019-09-09
@@ -700,6 +737,14 @@ GeoComputation:
 GIScience:
   long name: International Conference on Geographic Information Science
   events:
+    GIScience 2023:
+      count: 12th
+      start: 2023-09-12
+      end: 2023-09-15
+      place: Leeds, UK
+      url: https://giscience2023.github.io/
+      deadlineFullPaper: 2023-01-30
+      deadlineShortPaper: 2023-05-08
     GIScience 2021:
       count: 11th
       start: 2021-09-27
@@ -778,6 +823,14 @@ GIScience:
 ICC:
   long name: International Cartographic Conference
   events:
+    ICC 2023:
+      count: 31st
+      start: 2023-08-13
+      end: 2023-08-18
+      place: Cape Town, South Africa
+      url: https://icaci.org/icc2023/
+      deadlineFullPaper: 2022-12-05
+      deadlineShortPaper: 2022-12-12
     ICC 2021:
       count: 30th
       start: 2021-12-14
@@ -1112,6 +1165,10 @@ ISPRS Congress:
 ISPRS Geospatial Week:
   long name: ISPRS Geospatial Week
   events:
+    ISPRS Geospatial Week 2023:
+      start: 2023-09-02
+      end: 2023-09-07
+      place: Cairo, Egypt
     ISPRS Geospatial Week 2021:
       start: 2021-03-21
       end: 2021-03-25
