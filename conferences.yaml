@@ -505,13 +505,13 @@ AGILE:
       place: Enschede, The Netherlands
 COSIT:
   long name: Conference on Spatial Information Theory
-  events:  
+  events:
     COSIT 2022:
       count: 15th
       start: 2022-09-05
       end: 2022-09-09
       place: Kobe, Japan
-      url: https://cosit2022.iniad.org/
+      url: https://cosit2022.iniad.org
       deadlineFullPaper: 2022-03-21
       deadlineShortPaper: 2022-04-08  
     COSIT 2019:
@@ -742,7 +742,7 @@ GIScience:
       start: 2023-09-12
       end: 2023-09-15
       place: Leeds, UK
-      url: https://giscience2023.github.io/
+      url: https://giscience2023.github.io
       deadlineFullPaper: 2023-01-30
       deadlineShortPaper: 2023-05-08
     GIScience 2021:
